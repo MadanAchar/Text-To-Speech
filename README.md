@@ -1,7 +1,7 @@
 # Text-to-Speech (TTS) GUI Application
 
 ## Overview
-This is a simple Text-to-Speech (TTS) GUI application built using Python and Tkinter. The application allows users to enter text, convert it into speech, and save the generated audio file to their local storage.
+This is a simple Text-to-Speech (TTS) GUI application built using Python|tkinter. The application allows users to enter text, convert it into speech, and save the generated audio file to their local storage.
 
 ## Features
 - Enter text in the input box
